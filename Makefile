@@ -1,7 +1,7 @@
 VERSION = 3.0.3
 MAJOR_VERSION = 3.0
 ARCH = x64
-OWNER = foobarwidget
+OWNER = ablab
 DISABLE_OPTIMIZATIONS = 0
 IMAGE = ghcr.io/$(OWNER)/holy-build-box-$(ARCH)
 
